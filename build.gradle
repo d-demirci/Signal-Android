@@ -83,7 +83,7 @@ dependencies {
     compile 'com.android.support:multidex:1.0.1'
     compile 'com.google.android.gms:play-services-gcm:10.0.1'
     compile 'com.google.android.gms:play-services-maps:10.0.1'
-    compile 'com.google.android.gms:play-services-places:9.6.1'
+    compile 'com.google.android.gms:play-services-places:10.0.1'
     compile 'org.whispersystems:jobmanager:1.0.2'
     compile 'org.whispersystems:libpastelog:1.0.7'
     compile 'org.whispersystems:signal-service-android:2.4.7'
